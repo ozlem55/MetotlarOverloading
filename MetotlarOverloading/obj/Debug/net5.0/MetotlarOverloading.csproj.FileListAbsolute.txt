@@ -1,0 +1,16 @@
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\bin\Debug\net5.0\MetotlarOverloading.exe
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\bin\Debug\net5.0\MetotlarOverloading.deps.json
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\bin\Debug\net5.0\MetotlarOverloading.runtimeconfig.json
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\bin\Debug\net5.0\MetotlarOverloading.runtimeconfig.dev.json
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\bin\Debug\net5.0\MetotlarOverloading.dll
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\bin\Debug\net5.0\ref\MetotlarOverloading.dll
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\bin\Debug\net5.0\MetotlarOverloading.pdb
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\obj\Debug\net5.0\MetotlarOverloading.csproj.AssemblyReference.cache
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\obj\Debug\net5.0\MetotlarOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\obj\Debug\net5.0\MetotlarOverloading.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\obj\Debug\net5.0\MetotlarOverloading.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\obj\Debug\net5.0\MetotlarOverloading.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\obj\Debug\net5.0\MetotlarOverloading.dll
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\obj\Debug\net5.0\ref\MetotlarOverloading.dll
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\obj\Debug\net5.0\MetotlarOverloading.pdb
+C:\Users\ozlem\source\repos\MetotlarOverloading\MetotlarOverloading\obj\Debug\net5.0\MetotlarOverloading.genruntimeconfig.cache
